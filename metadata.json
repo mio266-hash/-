@@ -1,0 +1,5 @@
+{
+  "name": "解压抽纸",
+  "description": "一款基于物理引擎的解压抽纸模拟器。包含带有 AI 寄语的禅意模式和30秒速抽挑战。",
+  "requestFramePermissions": []
+}
